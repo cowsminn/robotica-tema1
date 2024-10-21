@@ -29,20 +29,15 @@
 ## Componentele folosite:
   - 4x LED-uri (pentru a simula procentul de încărcare)
   - 1x LED RGB (pentru starea de liber sau ocupat)
-  - 2x Butoane (pentru start încărcare și stop încărcare)
+  - 2x Butoane (pentru start oncarcare si stop incarcare)
   - 9x Rezistoare (7x 220ohm, 2x 1K)
   - Breadboard
-  - Linii de legătură
+  - Linii de legatura
+  - 
+## Schema electrica a circuitului implementat pe Wokwi
+  
+![img1](./imagini/imagine3.jpeg)
 
-## Repository Contents
 
-* **/Hardware** - Eagle design files (.brd, .sch)
-* **/Images** - Board images
-* **/bin** - Binaries (board bootloader)
-
-## Link catre videoul ce arata functionalitatea montajului fizic:
-  https://www.youtube.com/watch?v=eAE200TeHGY
-
-Please review the LICENSE file for license information. 
-
-Distributed as-is; no warranty is given.
+## link video:
+  https://youtube.com/shorts/Hxhs5Td3ljg?si=jBow3Uvh0U9tc2a5
