@@ -42,9 +42,9 @@
 
 ## Imagini cu Setup-ul Fizic
 
-![img2](./poze/image.jpeg)
 ![img3](./poze/image1.jpeg)
 
+![img2](./poze/image.png)
 
 ## link video:
   https://youtube.com/shorts/Hxhs5Td3ljg?si=jBow3Uvh0U9tc2a5
