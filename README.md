@@ -33,10 +33,17 @@
   - 9x Rezistoare (7x 220ohm, 2x 1K)
   - Breadboard
   - Linii de legatura
-  - 
+
+  ![img](./imagini/image2.jpeg)
+  
 ## Schema electrica a circuitului implementat pe Wokwi
   
-![img1](./imagini/imagine3.jpeg)
+![img1](./imagini/image3.jpeg)
+
+## Imagini cu Setup-ul Fizic
+
+![img2](./imagini/image.jpeg)
+![img3](./imagini/image1.jpeg)
 
 
 ## link video:
